@@ -1,0 +1,178 @@
+{
+  "title": "Ministry of Finance of Eritrea",
+  "pageID": 65464706,
+  "categories": [
+    "Finance ministries",
+    "Government of Eritrea",
+    "1993 establishments in Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Finance of Eritrea is responsible for the public finance policies of Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Finance of Eritrea"
+                ]
+              }
+            },
+            {
+              "text": "The ministry is located in Asmara.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Asmara"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of eritrea"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.developmentaid.org/#!/donors/view/145874/ministry-of-finance-of-eritrea",
+          "title": "DevelopmentAid",
+          "website": "DevelopmentAid",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ministers of Finance",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Haile Woldense, 1993-1997",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haile Woldense"
+              }
+            ]
+          },
+          {
+            "text": "Ghebreselassie Yoseph, 1997-2001",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghebreselassie Yoseph"
+              }
+            ]
+          },
+          {
+            "text": "Berhane Abrehe, 2001-2014",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berhane Abrehe"
+              }
+            ]
+          },
+          {
+            "text": "Berhane Habtemariam, 2014-",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berhane Habtemariam"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.amnesty.org/en/latest/news/2018/09/eritrea-release-former-finance-minister-immediately-and-unconditionally/",
+          "title": "Eritrea: Release former finance minister immediately and unconditionally",
+          "website": "www.amnesty.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://erena.org/eritreas-former-finance-minister-is-to-publish-a-book-on-the-countrys-past-and-present-state-of-affairs/",
+          "title": "Eritrea’s former finance minister is to publish a book on the country’s past and Present state of affairs",
+          "date": "October 26, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Finance ministry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Finance ministry"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "Government of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Eritrea"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
