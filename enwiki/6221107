@@ -1,0 +1,168 @@
+{
+  "title": "Regional Administrators of Eritrea",
+  "pageID": 6221107,
+  "categories": [
+    "Government of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Regional Administrators of Eritrea are appointed centrally by the President of Eritrea.",
+              "links": [
+                {
+                  "text": "President of Eritrea",
+                  "type": "internal",
+                  "page": "Heads of State of Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Regional Administrators of Eritrea"
+                ]
+              }
+            },
+            {
+              "text": "The Regional Administrators supervise and work in collaboration with their elected Regional Assemblies.",
+              "links": [
+                {
+                  "text": "Regional Assemblies",
+                  "type": "internal",
+                  "page": "Regional Assemblies of Eritrea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Regional Administrator will also represent the Region (Zoba) in National Cabinet meetings and quarterly update meetings.",
+              "formatting": {
+                "italic": [
+                  "Zoba"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2009",
+          "template": "unreferenced"
+        },
+        {
+          "template": "politics of eritrea"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Administrator of the Anseba Region: Selma Hassan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anseba"
+              },
+              {
+                "type": "internal",
+                "page": "Selma Hassan"
+              }
+            ]
+          },
+          {
+            "text": "Administrator of the Southern Region: Mustapha Nurhussein",
+            "links": [
+              {
+                "text": "Southern",
+                "type": "internal",
+                "page": "Debub"
+              }
+            ]
+          },
+          {
+            "text": "Administrator of the Gash-Barka Region: Musa Raba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gash-Barka"
+              }
+            ]
+          },
+          {
+            "text": "Administrator of the Central Region and mayor of Asmara: Semere Russom",
+            "links": [
+              {
+                "text": "Central",
+                "type": "internal",
+                "page": "Maekel"
+              },
+              {
+                "type": "internal",
+                "page": "Asmara"
+              },
+              {
+                "type": "internal",
+                "page": "Semere Russom"
+              }
+            ]
+          },
+          {
+            "text": "Administrator of the Northern Red Sea Region: Abdallah Mussa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Red Sea"
+              }
+            ]
+          },
+          {
+            "text": "Administrator of the Southern Red Sea Region: Tsigereda Woldeghiergis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Southern Red Sea"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "eritrea-gov-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Eritrea: Frozen and Reshuffled, Again",
+            "links": [
+              {
+                "text": "Eritrea: Frozen and Reshuffled, Again",
+                "type": "external",
+                "site": "http://www.asmarino.com/eyewitness-account/512-eritrea-frozen-and-reshuffled-again"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "title": "Ministry of Foreign Affairs (Eritrea)",
+  "pageID": 34015067,
+  "categories": [
+    "Government of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Foreign Affairs of Eritrea is a government ministry which oversees the foreign relations of Eritrea.",
+              "links": [
+                {
+                  "text": "foreign relations",
+                  "type": "internal",
+                  "page": "Foreign relations of Eritrea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Foreign Affairs of Eritrea"
+                ]
+              }
+            },
+            {
+              "text": "Eritrea's current Minister of Foreign Affairs is Osman Saleh Mohammed, since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Osman Saleh Mohammed"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of eritrea"
+        }
+      ],
+      "infoboxes": [
+        {
+          "agency_name": {
+            "text": "State of Eritrea Ministry of Foreign Affairs"
+          },
+          "logo": {
+            "text": "Emblem of Eritrea (or argent azur).svg"
+          },
+          "logo_width": {
+            "text": "150px"
+          },
+          "logo_caption": {
+            "text": "Emblem of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emblem of Eritrea"
+              }
+            ]
+          },
+          "jurisdiction": {
+            "text": "Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrea"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Asmara 🇪🇷",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asmara"
+              },
+              {
+                "text": "🇪🇷",
+                "type": "internal",
+                "page": "eritrea"
+              }
+            ]
+          },
+          "chief1_name": {
+            "text": "Osman Saleh Mohammed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osman Saleh Mohammed"
+              }
+            ]
+          },
+          "chief1_position": {
+            "text": "Minister"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eritrea - Heads of Government Listing",
+          "url": "http://www.info.dfat.gov.au/info/hog/hog.nsf/ListSpecific?OpenForm&ExpandView&RestrictToCategory=Eritrea",
+          "publisher": "Australian Government Department of Foreign Affairs and Trade",
+          "access-date": "20 November 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "List of ministers",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "This is a list of Ministers of Foreign Affairs of Eritrea:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "1993–1994: Mahmoud Ahmed Sherifo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Ahmed Sherifo"
+              }
+            ]
+          },
+          {
+            "text": "1994–1997: Petros Solomon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petros Solomon"
+              }
+            ]
+          },
+          {
+            "text": "1997–2000: Haile Woldense",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haile Woldense"
+              }
+            ]
+          },
+          {
+            "text": "2000–2005: Ali Said Abdella",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Said Abdella"
+              }
+            ]
+          },
+          {
+            "text": "2005–2007: Mohamed Omer (acting)",
+            "links": [
+              {
+                "text": "Mohamed Omer",
+                "type": "internal",
+                "page": "Mohamed Omer (Eritrean politician)"
+              }
+            ]
+          },
+          {
+            "text": "2007–present: Osman Saleh Mohammed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osman Saleh Mohammed"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://rulers.org/fm2.html",
+          "title": "Foreign ministers E-K",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Eritrea"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Foreign aid to Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign aid to Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "List of diplomatic missions of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of diplomatic missions of Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "List of diplomatic missions in Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of diplomatic missions in Eritrea"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "foreign affairs ministries of the world"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "eritrea-gov-stub"
+        }
+      ]
+    }
+  ]
+}

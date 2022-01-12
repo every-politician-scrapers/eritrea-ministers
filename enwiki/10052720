@@ -1,0 +1,93 @@
+{
+  "title": "Ministry of National Development (Eritrea)",
+  "pageID": 10052720,
+  "categories": [
+    "Government of Eritrea",
+    "Public works ministries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of National Development (Abbreviation: MND) in Eritrea has a mandate to plan and coordinate programs and projects at the sectoral and regional levels or to coordinate their implementation and to conduct management audit of ministries, departments and strategic public enterprises.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abbreviation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of National Development",
+                  "MND"
+                ]
+              }
+            },
+            {
+              "text": "The Ministry grew out of the Office of Macro Policy within the Office of the President."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The first Minister of National Development is Dr. Woldai Futur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Woldai Futur"
+                }
+              ]
+            },
+            {
+              "text": "The current Minister, however, is Dr Giorgis Tesfamichael."
+            },
+            {
+              "text": "See attached speech by Dr Giorgis on government position on development cooperation:"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of eritrea"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.shaebia.org/cgi-bin/artman/exec/view.cgi?archive=5&num=1710",
+          "title": "Interview with Dr. Woldai Futur, Minister of National Development",
+          "accessdate": "2007-03-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "eritrea-gov-stub"
+        }
+      ]
+    }
+  ]
+}

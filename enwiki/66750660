@@ -1,0 +1,201 @@
+{
+  "title": "Ministry of Defence (Eritrea)",
+  "pageID": 66750660,
+  "categories": [
+    "Defence ministries",
+    "Government of Eritrea",
+    "1993 establishments in Eritrea",
+    "Military of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Defence of Eritrea is a Eritrean government agency responsible for the public finance policies of Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Defence of Eritrea"
+                ]
+              }
+            },
+            {
+              "text": "It is responsible for maintaining the Eritrean Defence Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrean Defence Forces"
+                }
+              ]
+            },
+            {
+              "text": "The ministry is located in Asmara.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Asmara"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of eritrea"
+        }
+      ]
+    },
+    {
+      "title": "Authority",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It is responsible for the overseeing of the transfer of national service soldiers to the regular army as well as assign members of the national service."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ilo.org/dyn/natlex/docs/SERIAL/79562/85681/F2067220900/ERI79562.pdf",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ministers of Defence",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Mesfin Hagos (1991-1995)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mesfin Hagos"
+              }
+            ]
+          },
+          {
+            "text": "Sebhat Ephrem (1995–2013)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebhat Ephrem"
+              }
+            ]
+          },
+          {
+            "text": "Filipos Woldeyohannes (since 2014)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipos Woldeyohannes"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Mesfin Hagos, Author at African Arguments",
+          "url": "https://africanarguments.org/author/mesfin-h-beidu/",
+          "access-date": "2021-07-03",
+          "website": "African Arguments",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hagos",
+          "first": "Seeye Abraha",
+          "title": "Why Eritrea Won't Leave Ethiopia",
+          "url": "https://foreignpolicy.com/2021/05/04/eritrea-wont-leave-ethiopia-abiy-ahmed-isaias-afwerki/",
+          "access-date": "2021-07-03",
+          "website": "Foreign Policy",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2013-05-06",
+          "title": "Eritrea",
+          "url": "https://www.defenceweb.co.za/security/african-militaries/eritrea/",
+          "access-date": "2021-07-03",
+          "website": "defenceWeb",
+          "language": "en-ZA",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Eritrean Defence Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrean Defence Forces"
+              }
+            ]
+          },
+          {
+            "text": "Government of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "Cabinet of Ministers of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Ministers of Eritrea"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
