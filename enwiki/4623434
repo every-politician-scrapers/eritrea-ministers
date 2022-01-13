@@ -1,0 +1,54 @@
+{
+  "title": "Filipos Woldeyohannes",
+  "pageID": 4623434,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Eritrean soldiers",
+    "People sanctioned under the Magnitsky Act"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Filipos Woldeyohannes is an Eritrean general who is the Chief of Staff of Eritrean Defence Forces since March 2014.",
+              "links": [
+                {
+                  "text": "Chief of Staff",
+                  "type": "internal",
+                  "page": "Chief of Staff of the Armed Forces (Eritrea)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrean Defence Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Filipos Woldeyohannes"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed after his predecessor died in early March 2014."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2011",
+          "template": "blp sources"
+        },
+        {
+          "description": "Eritrean general",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Fozia Hashim",
+  "pageID": 6806874,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "People's Front for Democracy and Justice politicians",
+    "Government ministers of Eritrea",
+    "Eritrean judges",
+    "Women judges",
+    "Women government ministers of Eritrea",
+    "Female justice ministers",
+    "20th-century women politicians",
+    "21st-century women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fozia Hashim is a former head of the Eritrean High Court.",
+              "links": [
+                {
+                  "text": "High Court",
+                  "type": "internal",
+                  "page": "High Court of Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fozia Hashim"
+                ]
+              }
+            },
+            {
+              "text": "She is a Muslim woman and in 1993 was appointed to the post of Minister of Justice."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the Minister of Justice she has been responsible for the reorganization of the Court system and the drafting of a new legal code."
+            },
+            {
+              "text": "All Proclamations and legal regulations are vetted by her office."
+            },
+            {
+              "text": "Under her leadership community courts have elected their magistrates.",
+              "links": [
+                {
+                  "text": "community courts",
+                  "type": "internal",
+                  "page": "Community Courts of Eritrea"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fozia Hashim"
+          },
+          "order": {
+            "text": "1st Minister of Justice of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Justice of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1993",
+            "number": 1993
+          },
+          "term_end": {
+            "text": "present",
+            "formatting": {
+              "italic": [
+                "present"
+              ]
+            }
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

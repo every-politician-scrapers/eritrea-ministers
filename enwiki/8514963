@@ -1,0 +1,339 @@
+{
+  "title": "Bank of Eritrea",
+  "pageID": 8514963,
+  "categories": [
+    "Economy of Eritrea",
+    "Central banks",
+    "Organisations based in Asmara",
+    "1914 establishments in Eritrea",
+    "Banks established in 1914",
+    "Banks of Eritrea",
+    "Banking in Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Bank of Eritrea is the central bank of Eritrea.",
+              "links": [
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bank of Eritrea"
+                ]
+              }
+            },
+            {
+              "text": "The bank is located in Asmara, the capital.",
+              "links": [
+                {
+                  "text": "bank",
+                  "type": "internal",
+                  "page": "bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asmara"
+                }
+              ]
+            },
+            {
+              "text": "The central bank is interested in encouraging foreign investment and in importing capital goods such as industrial machinery and agricultural equipment.",
+              "links": [
+                {
+                  "text": "foreign investment",
+                  "type": "internal",
+                  "page": "foreign direct investment"
+                },
+                {
+                  "text": "capital goods",
+                  "type": "internal",
+                  "page": "capital goods"
+                },
+                {
+                  "text": "industrial machinery",
+                  "type": "internal",
+                  "page": "industrial machinery"
+                },
+                {
+                  "text": "agricultural equipment",
+                  "type": "internal",
+                  "page": "agricultural equipment"
+                }
+              ]
+            },
+            {
+              "text": "The Central Bank of Eritrea, though a government entity, is independent from the Ministry of Finance; its governor and policy committee formulate and implement policy with input from the Ministry of Finance."
+            },
+            {
+              "text": "Although travellers are permitted to bring foreign currency into the country, all transactions are to be made in Nakfa."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central Bank of Eritrea",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "headquarters": {
+            "text": "Asmara, Maekel, Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asmara"
+              },
+              {
+                "type": "internal",
+                "page": "Maekel"
+              },
+              {
+                "type": "internal",
+                "page": "Eritrea"
+              }
+            ]
+          },
+          "image_1": {
+            "text": "File:Asmara, banca dell'eritrea.JPG"
+          },
+          "image_title_1": {
+            "text": "The Bank of Eritrea Building in Asmara"
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "established": {
+            "text": "1914",
+            "number": 1914
+          },
+          "president": {
+            "text": "Kibreab Woldemariam (acting)",
+            "formatting": {
+              "italic": [
+                "acting"
+              ]
+            }
+          },
+          "leader_title": {
+            "text": "Governor"
+          },
+          "bank_of": {
+            "text": "Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrea"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Eritrean Nakfa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrean Nakfa"
+              }
+            ]
+          },
+          "currency_iso": {
+            "text": "ERN"
+          },
+          "website": {
+            "text": "www.boe.gov.er",
+            "links": [
+              {
+                "text": "www.boe.gov.er",
+                "type": "external",
+                "site": "http://www.boe.gov.er"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Legal Notice 101/2005",
+          "publisher": "Ministry of Information",
+          "url": "http://www.shabait.com/cgi-bin/articles-new/exec/view.cgi?archive=5&num=2839",
+          "accessdate": "2009-05-20",
+          "archive-url": "https://web.archive.org/web/20071201014738/http://www.shabait.com/cgi-bin/articles-new/exec/view.cgi?archive=5&num=2839",
+          "archive-date": "2007-12-01",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "http://classified.japantimes.com/ads/pdfs/20090518-panorama-eritrea.pdf",
+          "title": "Eritrea: Entering a New Phase",
+          "accessdate": "2009-05-20",
+          "archiveurl": "https://web.archive.org/web/20090529201245/http://classified.japantimes.com/ads/pdfs/20090518-panorama-eritrea.pdf",
+          "archivedate": "29 May 2009",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Andebrhan Welde Giorgis, 1993-1994",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andebrhan Welde Giorgis"
+              }
+            ]
+          },
+          {
+            "text": "Tekie Beyene, 1994-2003-?",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tekie Beyene"
+              }
+            ]
+          },
+          {
+            "text": "Kibreab Woldemariam, ?-2004-",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kibreab Woldemariam"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Banking in Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banking in Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "Central banks and currencies of Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central banks and currencies of Africa"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Eritrea"
+              }
+            ]
+          },
+          {
+            "text": "Eritrean nakfa, the unit of currency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrean nakfa"
+              }
+            ]
+          },
+          {
+            "text": "List of central banks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of central banks"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Footnotes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "template": "eritrea-stub"
+        }
+      ]
+    }
+  ]
+}
