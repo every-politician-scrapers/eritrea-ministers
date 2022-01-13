@@ -1,0 +1,86 @@
+{
+  "title": "Selma Hassan",
+  "pageID": 9630933,
+  "categories": [
+    "Anseba Region",
+    "Year of birth missing (living people)",
+    "Living people",
+    "People's Front for Democracy and Justice politicians",
+    "Government ministers of Eritrea",
+    "Women government ministers of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Selma Hassan is the Minister of Labor and Human Welfare of Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Selma Hassan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to her appointment as Minister, Selma was Administrator of the Anseba Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anseba Region"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Selma Hassan"
+          },
+          "order": {
+            "text": "Minister of Labor and Human Welfare of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Labor and Human Welfare of Eritrea"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Askalu Menkerios",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Askalu Menkerios"
+              }
+            ]
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Askalu Menkerios",
+  "pageID": 6844787,
+  "categories": [
+    "Government ministers of Eritrea",
+    "People's Front for Democracy and Justice politicians",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Women government ministers of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Askalu Menkerios is the current Minister of Tourism and former Minister of Labor and Social Welfare of Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Tourism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Askalu Menkerios"
+                ]
+              }
+            },
+            {
+              "text": "She was born and raised in Eritrea."
+            },
+            {
+              "text": "She is a member of the People's Front for Democracy and Justice (PFDJ).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Front for Democracy and Justice"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2014",
+          "template": "blp sources"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Askalu Menkerios"
+          },
+          "order": {
+            "text": "Minister of Tourism"
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

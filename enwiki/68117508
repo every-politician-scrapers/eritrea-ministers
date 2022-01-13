@@ -1,0 +1,330 @@
+{
+  "title": "Chief of Staff of the Armed Forces (Eritrea)",
+  "pageID": 68117508,
+  "categories": [
+    "Chiefs of defence",
+    "Military of Eritrea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Chief of Staff of the Eritrean Defence Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrean Defence Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chief of Staff"
+                ]
+              }
+            },
+            {
+              "text": "The person in this post is the highest-ranking military officer in the EDF and is responsible for maintaining operational control over military structures."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "post": {
+            "text": "Chief of Staff"
+          },
+          "body": {
+            "text": "the Defence Forces"
+          },
+          "incumbent": {
+            "text": "Filipos Woldeyohannes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipos Woldeyohannes"
+              }
+            ]
+          },
+          "incumbentsince": {
+            "text": "19 March 2014"
+          },
+          "department": {
+            "text": "Ministry of Defence",
+            "links": [
+              {
+                "text": "Ministry of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Eritrea)"
+              }
+            ]
+          },
+          "member_of": {
+            "text": "Eritrean Defence Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eritrean Defence Forces"
+              }
+            ]
+          },
+          "reports_to": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Eritrea)"
+              }
+            ]
+          },
+          "appointer": {
+            "text": "President",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "List of heads of state of Eritrea"
+              }
+            ]
+          },
+          "formation": {
+            "text": "1991",
+            "number": 1991
+          }
+        }
+      ]
+    },
+    {
+      "title": "List",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Name (birth–death)"
+            },
+            "col3": {
+              "text": "Term of office"
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "Ref."
+            }
+          },
+          {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Name (birth–death)"
+            },
+            "col3": {
+              "text": "Took office"
+            },
+            "col4": {
+              "text": "Left office"
+            },
+            "col5": {
+              "text": "Time in office"
+            },
+            "col6": {
+              "text": "Ref."
+            }
+          },
+          {
+            "col1": {
+              "text": "1",
+              "number": 1
+            },
+            "col2": {
+              "text": "General Ogbe Abraha (1948–2002)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ogbe Abraha"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ogbe Abraha"
+                ]
+              }
+            },
+            "col3": {
+              "text": "1991",
+              "number": 1991
+            },
+            "col4": {
+              "text": "February 2000"
+            },
+            "col5": {
+              "text": "9 years"
+            },
+            "col6": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "?"
+            },
+            "col2": {
+              "text": "Major general Gerezgheri Andemariam (1950–2014)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gerezgheri Andemariam"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gerezgheri Andemariam"
+                ]
+              }
+            },
+            "col3": {
+              "text": "?"
+            },
+            "col4": {
+              "text": "6 March 2014 †"
+            },
+            "col5": {
+              "text": "?"
+            },
+            "col6": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "?"
+            },
+            "col2": {
+              "text": "Major general Filipos Woldeyohannes",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Filipos Woldeyohannes"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Filipos Woldeyohannes"
+                ]
+              }
+            },
+            "col3": {
+              "text": "19 March 2014"
+            },
+            "col4": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "abbr": "No.",
+          "meaning": "Number",
+          "template": "abbr"
+        },
+        {
+          "abbr": "Ref.",
+          "meaning": "Refences",
+          "template": "abbr"
+        },
+        {
+          "list": [
+            "2014",
+            "03",
+            "19"
+          ],
+          "template": "ayd"
+        }
+      ],
+      "references": [
+        {
+          "date": "6 March 2014",
+          "title": "Major General Gerezgher 'Wuchu' Passed Away",
+          "work": "tesfanews.net",
+          "url": "https://tesfanews.net/major-general-gerezgheri-wuchu-passed-away/",
+          "access-date": "13 June 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "19 March 2014",
+          "title": "Eritrea Appoints New Chief of Staff",
+          "work": "tesfanews.net",
+          "url": "https://tesfanews.net/eritrea-appoints-new-chief-of-staff/",
+          "access-date": "13 June 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2010-05-07",
+          "title": "Six Eritrean political leaders have died in prison: ex-guard",
+          "newspaper": "Asmarino",
+          "url": "https://www.asmarino.com/news/661-six-eritrean-political-leaders-have-died-in-prison-ex-guard",
+          "url-status": "live",
+          "access-date": "2021-07-03",
+          "archive-url": "https://web.archive.org/web/20210702235244/https://www.asmarino.com/news/661-six-eritrean-political-leaders-have-died-in-prison-ex-guard",
+          "archive-date": "2021-07-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2019-09-27",
+          "title": "General Ogbe Abraha",
+          "url": "https://www.amnesty.org/en/latest/campaigns/2019/09/general-ogbe-abraha-eritrea-hrds-arrested-never-seen-or-heard-from-again",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210702232929/https://www.amnesty.org/en/latest/campaigns/2019/09/general-ogbe-abraha-eritrea-hrds-arrested-never-seen-or-heard-from-again",
+          "archive-date": "2021-07-02",
+          "access-date": "2021-07-03",
+          "website": "Amnesty International",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "July 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "chief of military by country"
+        }
+      ]
+    }
+  ]
+}

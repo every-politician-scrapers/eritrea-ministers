@@ -1,0 +1,143 @@
+{
+  "title": "Berhane Habtemariam",
+  "pageID": 9134199,
+  "categories": [
+    "Eritrean politicians",
+    "Living people",
+    "Finance ministers of Eritrea",
+    "Government audit officials",
+    "Auditors",
+    "Government ministers of Eritrea",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Berhane Habtemariam (Tigrinya: በርሃነ ሀብተማርአም) is Eritrean politician.",
+              "links": [
+                {
+                  "text": "Tigrinya",
+                  "type": "internal",
+                  "page": "Tigrinya language"
+                },
+                {
+                  "text": "Eritrean",
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Berhane Habtemariam"
+                ]
+              }
+            },
+            {
+              "text": "He has been Minister of Finance of Eritrea since 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Finance of Eritrea"
+                }
+              ]
+            },
+            {
+              "text": "He was the first Auditor-General of Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ]
+            },
+            {
+              "text": "He was trained as an accountant in the United Kingdom.",
+              "links": [
+                {
+                  "text": "accountant",
+                  "type": "internal",
+                  "page": "accountant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2007 he was awarded a special commendation for promoting ethics and professionalism in his capacity as Auditor-General."
+            },
+            {
+              "text": "He was the first African to receive this award."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Eritrean politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Berhane Habtemariam"
+          },
+          "order1": {
+            "text": "4th Minister of Finance of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Finance of Eritrea"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2014",
+            "number": 2014
+          },
+          "predecessor1": {
+            "text": "Berhane Abrehe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berhane Abrehe"
+              }
+            ]
+          },
+          "order2": {
+            "text": "1st Auditor-General of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Auditor-General of Eritrea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1993",
+            "number": 1993
+          },
+          "term_end2": {
+            "text": "?"
+          },
+          "profession": {
+            "text": "Accountant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Accountant"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
