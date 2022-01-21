@@ -15,8 +15,18 @@
         {
           "sentences": [
             {
-              "text": "Filipos Woldeyohannes is an Eritrean general who is the Chief of Staff of Eritrean Defence Forces since March 2014.",
+              "text": "Filipos Woldeyohannes is an Eritrean general who has served as Chief of Staff of the Eritrean Defence Forces since March 2014.",
               "links": [
+                {
+                  "text": "Eritrean",
+                  "type": "internal",
+                  "page": "Eritreans"
+                },
+                {
+                  "text": "general",
+                  "type": "internal",
+                  "page": "general"
+                },
                 {
                   "text": "Chief of Staff",
                   "type": "internal",
