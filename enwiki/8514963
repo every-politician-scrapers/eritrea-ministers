@@ -175,12 +175,6 @@
       ],
       "references": [
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "title": "Legal Notice 101/2005",
           "publisher": "Ministry of Information",
           "url": "http://www.shabait.com/cgi-bin/articles-new/exec/view.cgi?archive=5&num=2839",
@@ -190,6 +184,17 @@
           "url-status": "dead",
           "template": "citation",
           "type": "press release"
+        },
+        {
+          "last1": "Weidner",
+          "first1": "Jan",
+          "title": "The Organisation and Structure of Central Banks",
+          "url": "https://d-nb.info/1138787981/34",
+          "website": "Katalog der Deutschen Nationalbibliothek",
+          "year": "2017",
+          "format": "PDF",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://classified.japantimes.com/ads/pdfs/20090518-panorama-eritrea.pdf",
