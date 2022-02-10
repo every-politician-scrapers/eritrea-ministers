@@ -22,8 +22,13 @@
         {
           "sentences": [
             {
-              "text": "Isaias Afwerki (ኢሳይያስ ኣፍወርቂ, ; born 2 February 1946) has been president of Eritrea since shortly after he led the Eritrean People's Liberation Front (EPLF) to victory in May 1991, ending the 30-year-old war for independence from Ethiopia.",
+              "text": "Isaias Afwerki (ኢሳይያስ ኣፍወርቂ, ; born 2 February 1946) is an Eritrean politician who has been president of Eritrea since shortly after he led the Eritrean People's Liberation Front (EPLF) to victory in May 1991, ending the 30-year-old war for independence from Ethiopia.",
               "links": [
+                {
+                  "text": "Eritrean",
+                  "type": "internal",
+                  "page": "Eritrea"
+                },
                 {
                   "text": "president of Eritrea",
                   "type": "internal",
