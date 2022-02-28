@@ -72,12 +72,16 @@
         {
           "sentences": [
             {
-              "text": "He has faced accusations of totalitarianism and been cited for human rights violations by the United Nations and Amnesty International.",
+              "text": "He has faced accusations of totalitarianism and Forced Conscription and been cited for human rights violations by the United Nations and Amnesty International.",
               "links": [
                 {
                   "text": "totalitarianism",
                   "type": "internal",
                   "page": "totalitarianism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Conscription"
                 },
                 {
                   "text": "human rights",
