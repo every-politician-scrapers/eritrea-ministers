@@ -21,10 +21,9 @@
         {
           "sentences": [
             {
-              "text": "Fozia Hashim is a former head of the Eritrean High Court.",
+              "text": "Fozia Hashim is a former head of the High Court of Eritrea.",
               "links": [
                 {
-                  "text": "High Court",
                   "type": "internal",
                   "page": "High Court of Eritrea"
                 }
@@ -36,7 +35,17 @@
               }
             },
             {
-              "text": "She is a Muslim woman and in 1993 was appointed to the post of Minister of Justice."
+              "text": "She is a Muslim woman of Jeberti descent.",
+              "links": [
+                {
+                  "text": "Jeberti",
+                  "type": "internal",
+                  "page": "Jeberti people"
+                }
+              ]
+            },
+            {
+              "text": "In 1993, she was appointed to the post of Minister of Justice."
             }
           ]
         },
@@ -86,6 +95,13 @@
                 "present"
               ]
             }
+          },
+          "birth_date": {
+            "text": "1956",
+            "number": 1956
+          },
+          "birth_place": {
+            "text": "Mendefera"
           },
           "party": {
             "text": "PFDJ",

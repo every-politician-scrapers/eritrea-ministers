@@ -47,16 +47,15 @@
                   "page": "United States"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Ali Abdu was born on 1963 in Eritrea."
             },
             {
-              "text": "At the age of 13, Ali Abdu joined the Eritrean People's Liberation Front, a Marxist-Leninist guerilla force that sought an independent and free Eritrea."
+              "text": "Ali Abdu Ahmed Ethnicity is Jeberti Eritrean."
+            },
+            {
+              "text": "Ali Abdu was born on 1963 in Asmara Eritrea."
+            },
+            {
+              "text": "At the age of 13, Ali Abdu joined the Eritrean People's Liberation Front,(EPLF) a Marxist-Leninist guerilla force that sought an independent and free Eritrea."
             },
             {
               "text": "He was a radio operator for Eritrea's President Isaias Afwerki."
@@ -154,8 +153,12 @@
               }
             ]
           },
+          "birth_date": {
+            "text": "1963",
+            "number": 1963
+          },
           "birth_place": {
-            "text": "Eritrea"
+            "text": "Asmara Eritrea"
           },
           "party": {
             "text": "Formerly PFDJ, now supports the Eritrean government opposition, known as Yiakl",
