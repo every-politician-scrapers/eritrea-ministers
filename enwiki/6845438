@@ -1,112 +1,12 @@
 {
-  "title": "Gergis Teklemichael",
-  "pageID": 6845438,
-  "categories": [
-    "Living people",
-    "Year of birth missing (living people)",
-    "People's Front for Democracy and Justice politicians",
-    "Government ministers of Eritrea"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gergis Teklemichael (alt.",
-              "formatting": {
-                "bold": [
-                  "Gergis Teklemichael"
-                ]
-              }
-            },
-            {
-              "text": "Giorgis) is the Minister of Trade and Industry of Eritrea.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eritrea"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gergis Teklemichael"
-          },
-          "order": {
-            "text": "1st Minister of Transport & Communications of Eritrea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Transport & Communications of Eritrea"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end": {
-            "text": "1997",
-            "number": 1997
-          },
-          "successor": {
-            "text": "Saleh Idris Kekya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saleh Idris Kekya"
-              }
-            ]
-          },
-          "order2": {
-            "text": "4th Minister of Trade & Industry of Eritrea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Trade & Industry of Eritrea"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end2": {
-            "text": "present",
-            "formatting": {
-              "italic": [
-                "present"
-              ]
-            }
-          },
-          "predecessor2": {
-            "text": "Ali Said Abdella",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Said Abdella"
-              }
-            ]
-          },
-          "party": {
-            "text": "PFDJ",
-            "links": [
-              {
-                "text": "PFDJ",
-                "type": "internal",
-                "page": "People's Front for Democracy and Justice"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gergis Teklemichael",
+  "order": "1st Minister of Transport & Communications of Eritrea",
+  "term_start": "1993",
+  "term_end": "1997",
+  "successor": "Saleh Idris Kekya",
+  "order2": "4th Minister of Trade & Industry of Eritrea",
+  "term_start2": "2001",
+  "term_end2": "present",
+  "predecessor2": "Ali Said Abdella",
+  "party": "PFDJ"
 }
