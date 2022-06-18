@@ -87,7 +87,16 @@
       "lists": [
         [
           {
-            "text": "Mesfin Hagos (1991-1995)",
+            "text": "Petros Solomon (1993-1994)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petros Solomon"
+              }
+            ]
+          },
+          {
+            "text": "Mesfin Hagos (1994-1995)",
             "links": [
               {
                 "type": "internal",
