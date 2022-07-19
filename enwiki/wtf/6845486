@@ -1,0 +1,155 @@
+{
+  "title": "Amna Nurhusein",
+  "pageID": 6845486,
+  "categories": [
+    "Living people",
+    "People's Front for Democracy and Justice politicians",
+    "Government ministers of Eritrea",
+    "Women government ministers of Eritrea",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amna Nurhusein is the Minister of Health in Eritrea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amna Nurhusein"
+                ]
+              }
+            },
+            {
+              "text": "She was previously the Minister of Tourism."
+            },
+            {
+              "text": "She was elevated to this position in 2001."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Amina Nurhusein"
+          },
+          "order": {
+            "text": "3rd Minister of Tourism of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Tourism of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2001",
+            "number": 2001
+          },
+          "predecessor": {
+            "text": "Ahmed Haj Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmed Haj Ali"
+              }
+            ]
+          },
+          "term_end": {
+            "text": "2009",
+            "number": 2009
+          },
+          "order2": {
+            "text": "4th"
+          },
+          "office2": {
+            "text": "Minister of Health"
+          },
+          "term_start2": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end2": {
+            "text": "present",
+            "formatting": {
+              "italic": [
+                "present"
+              ]
+            }
+          },
+          "predecessor2": {
+            "text": "Saleh Meki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saleh Meki"
+              }
+            ]
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://books.google.com/books?id=1AwhtSYO87kC&pg=PA145",
+          "title": "A Directory of World Leaders & Cabinet Members of Foreign Governments 2008-2009",
+          "isbn": "9781604501551",
+          "date": "March 2008",
+          "last1": "Manor",
+          "first1": "Arc",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "https://www.cia.gov/resources/government/eritrea/",
+          "title": "Governments - Eritrea",
+          "publisher": "CIA",
+          "access-date": "2021-01-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "January 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "eritrea-politician-stub"
+        }
+      ]
+    }
+  ]
+}

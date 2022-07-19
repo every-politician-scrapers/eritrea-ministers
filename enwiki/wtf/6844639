@@ -1,0 +1,251 @@
+{
+  "title": "Ahmed Haj Ali",
+  "pageID": 6844639,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "People's Front for Democracy and Justice politicians",
+    "Government ministers of Eritrea",
+    "Permanent Representatives of Eritrea to the United Nations"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ahmed Haj Ali is an Eritrean politician who has held various posts within the Government of Eritrea.",
+              "links": [
+                {
+                  "text": "Eritrean",
+                  "type": "internal",
+                  "page": "Eritrea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ahmed Haj Ali"
+                ]
+              }
+            },
+            {
+              "text": "After serving as Minister of Labour and Human Welfare, he was moved to the post of Minister of Tourism in February 1997."
+            },
+            {
+              "text": "He has subsequently served as Minister of Fisheries and Marine Resources."
+            },
+            {
+              "text": "He was also the first Eritrean Representative at the United Nations."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of 2011, he is Minister of Energy and Mines."
+            },
+            {
+              "text": "He has signed mining agreements with companies from Western countries as well as China to facilitate the exploitation of Eritrea's mineral wealth.",
+              "links": [
+                {
+                  "text": "China",
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Eritrean politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ahmed Haj Ali"
+          },
+          "order": {
+            "text": "2nd Minister of Tourism of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Tourism of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1997",
+            "number": 1997
+          },
+          "term_end": {
+            "text": "2001",
+            "number": 2001
+          },
+          "predecessor": {
+            "text": "Worku Tesfamichael",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Worku Tesfamichael"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Amna Nurhusein",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amna Nurhusein"
+              }
+            ]
+          },
+          "order2": {
+            "text": "1st Minister of Fisheries of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Fisheries of Eritrea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end2": {
+            "text": "present",
+            "formatting": {
+              "italic": [
+                "present"
+              ]
+            }
+          },
+          "order3": {
+            "text": "3rd Minister of Marine Resources of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Marine Resources of Eritrea"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end3": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor3": {
+            "text": "Petros Solomon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petros Solomon"
+              }
+            ]
+          },
+          "order4": {
+            "text": "2nd Minister of Energy & Mines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Energy & Mines"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end4": {
+            "text": "2013",
+            "number": 2013
+          },
+          "predecessor4": {
+            "text": "Tesfai Ghebreselassie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tesfai Ghebreselassie"
+              }
+            ]
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "eritrea-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Picture of Ahmed Haj Ali",
+            "links": [
+              {
+                "text": "Picture of Ahmed Haj Ali",
+                "type": "external",
+                "site": "http://www.shaebia.org/images/ahmed_haji.gif"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

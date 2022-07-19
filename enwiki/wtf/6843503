@@ -1,0 +1,200 @@
+{
+  "title": "Osman Saleh Mohammed",
+  "pageID": 6843503,
+  "categories": [
+    "Living people",
+    "Foreign ministers of Eritrea",
+    "Education ministers of Eritrea",
+    "Year of birth missing (living people)",
+    "People's Front for Democracy and Justice politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Osman Saleh Mohammed was the first Minister of Education for Eritrea following Independence, serving in that position from 1993 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Osman Saleh Mohammed"
+                ]
+              }
+            },
+            {
+              "text": "He has oversaw the transition from the revolutionary EPLF school system to a national education system.",
+              "links": [
+                {
+                  "text": "EPLF",
+                  "type": "internal",
+                  "page": "Eritrean People's Liberation Front"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2007, he was moved to head the Ministry of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Eritrea)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "First Minister of Education for Eritrea",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Osman Saleh Mohammed"
+          },
+          "image": {
+            "text": "Osman Saleh Mohammed.jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Foreign Affairs of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 April 2007"
+          },
+          "predecessor": {
+            "text": "Mohamed Omer",
+            "links": [
+              {
+                "text": "Mohamed Omer",
+                "type": "internal",
+                "page": "Mohamed Omer (Eritrean politician)"
+              }
+            ]
+          },
+          "order1": {
+            "text": "1st"
+          },
+          "office1": {
+            "text": "Minister of Education"
+          },
+          "term_start1": {
+            "text": "1993",
+            "number": 1993
+          },
+          "term_end1": {
+            "text": "18 April 2007"
+          },
+          "successor1": {
+            "text": "Semere Russom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Semere Russom"
+              }
+            ]
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of current foreign ministers",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of current foreign ministers"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2021",
+          "template": "engvarb"
+        },
+        {
+          "template": "eritrea-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "AfDevInfo",
+            "links": [
+              {
+                "text": "AfDevInfo",
+                "type": "external",
+                "site": "http://www.afdevinfo.com/htmlreports/peo/peo_8222.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

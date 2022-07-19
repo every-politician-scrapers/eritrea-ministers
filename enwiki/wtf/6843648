@@ -1,0 +1,149 @@
+{
+  "title": "Tesfai Ghebreselassie",
+  "pageID": 6843648,
+  "categories": [
+    "Living people",
+    "People's Front for Democracy and Justice politicians",
+    "Government ministers of Eritrea",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tesfai Ghebreselassie was Eritrea's Minister of Energy & Mines since Independence in 1993 until 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tesfai Ghebreselassie"
+                ]
+              }
+            },
+            {
+              "text": "He has overseen agreements with Anadarko Petroleum and various gold mining and mineral companies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anadarko Petroleum"
+                }
+              ]
+            },
+            {
+              "text": "Furthermore, he has overseen the maturation of the Eritrean Electric Authority.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrean Electric Authority"
+                }
+              ]
+            },
+            {
+              "text": "His portfolio was changed to that of the Ministry of Land, Water & Environment in 2011."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Eritrean politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2010",
+          "template": "blp sources"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tesfai Ghebreselassie"
+          },
+          "order": {
+            "text": "1st Minister of Energy & Mines of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Energy & Mines of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1993",
+            "number": 1993
+          },
+          "term_end": {
+            "text": "2011",
+            "number": 2011
+          },
+          "order2": {
+            "text": "1st Minister of Land, Water & Environment",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Land, Water & Environment"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end2": {
+            "text": "present",
+            "formatting": {
+              "italic": [
+                "present"
+              ]
+            }
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.financialpost.com/magazine/story.html?id=466646",
+          "title": "The trailblazers",
+          "date": "6 May 2008",
+          "work": "Financial Post",
+          "accessdate": "26 October 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "date": "January 2012",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "eritrea-politician-stub"
+        }
+      ]
+    }
+  ]
+}

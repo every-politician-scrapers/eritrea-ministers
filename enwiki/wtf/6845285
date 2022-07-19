@@ -1,0 +1,182 @@
+{
+  "title": "Woldemichael Abraha",
+  "pageID": 6845285,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of Eritrea",
+    "People's Front for Democracy and Justice politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Woldemichael Abraha was the fourth Minister of Transport and Communications for Eritrea starting in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eritrea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Woldemichael Abraha"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed Minister of Local Government after Woldemichael Gebremariam died in 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Woldemichael Gebremariam"
+                }
+              ]
+            },
+            {
+              "text": "According to Eritrean government convention, Abraha – as minister of Local Government – serves as head of state when the President is away."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Woldemichael Abraha"
+          },
+          "order": {
+            "text": "1st Minister of Local Government of Eritrea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Local Government of Eritrea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end": {
+            "text": "2022",
+            "number": 2022,
+            "formatting": {
+              "italic": [
+                "2022"
+              ]
+            }
+          },
+          "predecessor": {
+            "text": "Andemichael Kahsai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andemichael Kahsai"
+              }
+            ]
+          },
+          "party": {
+            "text": "PFDJ",
+            "links": [
+              {
+                "text": "PFDJ",
+                "type": "internal",
+                "page": "People's Front for Democracy and Justice"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.shabait.com/contacts/government-contact/77-ministers-ministries-in-alphabetical-order",
+          "title": "MINISTERS (Ministers in Alphabetical Order)",
+          "publisher": "Ministry of Information, Eritrea",
+          "accessdate": "18 December 2009",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.shabait.com/articles/q-a-a/4864-ministry-of-transport-and-communications-symposium-reviewing-work-accomplishments-and-challenges",
+          "title": "Ministry Of Transport And Communications Symposium: Reviewing Work Accomplishments And Challenges",
+          "accessdate": "4 March 2011",
+          "publisher": "Ministry of Information, Eritrea",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Funeral service of veteran Fighter Woldenkiel Gebremariam conducted With patriotic Fervor",
+          "url": "http://50.7.16.234/eritrea-profile/eritrea_profile_07082013.pdf",
+          "url-status": "live",
+          "website": "eritrea-profile/eritrea_profile",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Eritrea Appoints New Chief of Staff",
+          "url": "http://www.tesfanews.net/eritrea-appoints-new-chief-of-staff/",
+          "publisher": "TesfaNews",
+          "date": "19 March 2014",
+          "accessdate": "17 October 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2013",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "eritrea-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "\"For safe and efficient road transport service\"",
+            "links": [
+              {
+                "text": "\"For safe and efficient road transport service\"",
+                "type": "external",
+                "site": "http://www.dehai.org/archives/dehai_news_archive/sept-oct05/0402.html"
+              }
+            ]
+          },
+          {
+            "text": "photograph of Woldemichael Abraha",
+            "links": [
+              {
+                "text": "photograph of Woldemichael Abraha",
+                "type": "external",
+                "site": "http://www.dehai.org/archives/dehai_news_archive/sept-oct05/att-0402/02-seminar_trans_22905.jpg"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
