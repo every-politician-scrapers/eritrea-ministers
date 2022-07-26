@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P1545": "1",
+    "P580": "1993",
+    "P582": "2007-04-18",
+    "P1366": {
+      "links": [
+        "Semere Russom"
+      ],
+      "stated_as": "Semere Russom"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs of Eritrea"
+      ],
+      "stated_as": "Minister of Foreign Affairs of Eritrea"
+    },
+    "P580": "2007-04-18",
+    "P1365": {
+      "links": [
+        "Mohamed Omer (Eritrean politician)"
+      ],
+      "stated_as": "Mohamed Omer"
+    }
+  }
+]

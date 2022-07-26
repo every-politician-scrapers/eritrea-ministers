@@ -1,0 +1,57 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Eritrea)"
+      ],
+      "stated_as": "2nd Minister of Health"
+    },
+    "P1545": "2",
+    "P580": "1994",
+    "P1365": {
+      "links": [
+        "Haile Mehtsun"
+      ],
+      "stated_as": "Haile Mehtsun"
+    },
+    "P582": "1995",
+    "P1366": {
+      "links": [
+        "Saleh Meki"
+      ],
+      "stated_as": "Saleh Meki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Eritrea)"
+      ],
+      "stated_as": "3rd Minister of Defence"
+    },
+    "P1545": "3",
+    "P580": "1995",
+    "P1365": {
+      "links": [
+        "Mesfin Hagos"
+      ],
+      "stated_as": "Mesfin Hagos"
+    },
+    "P582": "2013",
+    "P1366": {
+      "links": [
+        "Filipos Woldeyohannes"
+      ],
+      "stated_as": "Filipos Woldeyohannes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy and Mines (Eritrea)"
+      ],
+      "stated_as": "Minister of Energy and Mines"
+    },
+    "P580": "2013"
+  }
+]
