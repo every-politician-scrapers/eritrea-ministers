@@ -1,0 +1,24 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Construction of Eritrea"
+      ],
+      "stated_as": "1st Minister of Construction of Eritrea"
+    },
+    "P1545": "1",
+    "P580": "1993",
+    "P582": "present"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Works of Eritrea"
+      ],
+      "stated_as": "1st Minister of Public Works of Eritrea"
+    },
+    "P1545": "1",
+    "P580": "1993",
+    "P582": "present"
+  }
+]

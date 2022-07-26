@@ -1,0 +1,24 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Energy & Mines of Eritrea"
+      ],
+      "stated_as": "1st Minister of Energy & Mines of Eritrea"
+    },
+    "P1545": "1",
+    "P580": "1993",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Land, Water & Environment"
+      ],
+      "stated_as": "1st Minister of Land, Water & Environment"
+    },
+    "P1545": "1",
+    "P580": "2011",
+    "P582": "present"
+  }
+]
